@@ -3,11 +3,12 @@
     padding: 0;
     margin: 0;
 }
-
+/* backgroung colour for body section */
 body {
     background-color: #d9dcd6;
 }
 
+/* setting header styling */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* setting hero section styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -187,7 +188,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* setting the styling for footer section */
 .footer {
     padding: 30px;
     clear: both;

@@ -1,10 +1,10 @@
 # Code Refractor- Challenge
-This project was based on improvng the accesibility of a website to improve the experince for end users. Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google.
+This project was based on improving the accesibility of a website to improve the experince for end users. Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google.
 
 
-The code was refactored and a number of improveemnts were made some of which were:
+The code was refactored and a number of improvements were made some of which were:
 * Adding alt text to images
-* Ensuring semantic elements where used when possible
+* Ensuring semantic elements where used whenever possible
 * Ensuring all links were working 
 * Adding a concise title element
 
